@@ -17,7 +17,7 @@ What's this useful for? Compressing data, speeding up Machine Learning algorithm
 
 If you'd like to see the full, step-by-step breakdown of this process (with code and explanations), I've prepared a PDF summary you can check out. Hope you find it useful!
 
-[link]()
+[link](https://github.com/ale-uy/PCA_con_gatos/raw/main/PCA_en.pdf)
 
 #DataScience #MachineLearning #PCA #ArtificialIntelligence #PrincipalComponentAnalysis #Python #DataVisualization #AI
 
@@ -41,6 +41,6 @@ Esto es la reducción de dimensionalidad en su máxima expresión: hemos represe
 
 Si quieres ver el desglose completo de este proceso paso a paso (con código y explicaciones), preparé un resumen en PDF que puedes revisar. ¡Espero que te sea útil!
 
-[Link]()
+[Link](https://github.com/ale-uy/PCA_con_gatos/raw/main/PCA_es.pdf)
 
 #DataScience #MachineLearning #PCA #InteligenciaArtificial #AnalisisDeComponentesPrincipales #Python #VisualizacionDeDatos #AI
